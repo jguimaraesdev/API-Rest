@@ -39,7 +39,7 @@ const jwt = require("jsonwebtoken");
 const users = [
      
      { id: 2, username: "jane", password: "password" },
-     { id: 3, username: "jhonny", password: "password" },
+     { id: 3, username: "jhonny", password: "123" },
 ];
 
 // Chave secreta para assinar e verificar JWTs
