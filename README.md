@@ -1,6 +1,4 @@
 # API-Rest
  
-Esta aplicação corresponde status de solicitação de POST com Node JS e Express usuario, com retorno de token DA SOLICITAÇÃO.
+Esta aplicação desenvolvida em  Node JS, Express, JWT, onde o usuario recebe um token ao efetuar uma requisição de POST.
 
-API Rest com Node e Express.
-MODELO APENAS PARA PRATICA
